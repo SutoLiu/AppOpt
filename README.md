@@ -1,6 +1,6 @@
 # AppOpt
 
-后续版本使用Rust开发，请移步到 → ：https://gitee.com/sutoliu/AppOptR
+后续版本使用Rust开发，请移步到 → ：[https://gitee.com/sutoliu/AppOptR](https://github.com/SutoLiu/AppOptR)
 
 
 
