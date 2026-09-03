@@ -1,7 +1,11 @@
 # AppOpt
 
+后续版本使用Rust开发，请移步到 → ：https://gitee.com/sutoliu/AppOptR
+
+
+
 #### 介绍
-一个使用C语言编写，支持定义规则的安卓应用与游戏线程优化程序
+Android 应用 CPU 亲和性管理工具
 
  **使用说明请参考** 
 
